@@ -19,5 +19,5 @@ for (let match of matches) {
   }
 }
 
-console.log('SI THU');
+console.log('SI THU 2');
 console.log(`Man United won ${manUnitedWins} games`);
